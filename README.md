@@ -1,4 +1,4 @@
-# v1.0 - Alpha
+# fileserver
 
 These scripts are used for building an FTP style fileserver on your own hardware.  
 
