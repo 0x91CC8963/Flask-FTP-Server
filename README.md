@@ -1,4 +1,4 @@
-# fileserver
+# Flask FTP Server (Using Python / HTML)
 
 These scripts are used for building an FTP style fileserver on your own hardware.  
 
